@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: #f4f4f9;
+}
+h2, h3 {
+    color: #333;
+}
+form input, form button {
+    padding: 8px;
+    margin: 5px;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    background: #fff;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 6px;
+}
+a {
+    margin-left: 10px;
+    text-decoration: none;
+    color: blue;
+}
